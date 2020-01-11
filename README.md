@@ -6,6 +6,9 @@ A simple tradingview alert listener for sending message to webhook
 
 ## Usage
 
+首先build，然后dist文件夹拖到 chrome://extensions/ 下
+build 方式如下：
+
 ### `npm run build`
 
 Build the extension into `dist` folder for **production**.
