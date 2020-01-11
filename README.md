@@ -1,6 +1,6 @@
 # tvAlertWebhook
 A simple tradingview alert listener for sending message to webhook
-
+提供了一个基础的轮子。供学习，修改。
 
 ![](https://github.com/xiaoyual666/tvAlertWebhook/blob/master/src/icons/pic.png)
 
